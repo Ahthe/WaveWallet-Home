@@ -4,7 +4,7 @@ import { SparklesCore } from "./ui/sparkles";
 
 export function SparklesPreview() {
   return (
-    <div className="fixed inset-0 w-full h-full bg-black flex flex-col items-center justify-center overflow-hidden" style={{ top: '80px' }}>
+    <div className="fixed inset-0 w-full h-full bg-black flex flex-col items-center justify-center overflow-hidden" style={{ top: '8%' }}>
       <div className="absolute inset-0 w-full h-full">
         <SparklesCore
           id="tsparticlesfullpage"
